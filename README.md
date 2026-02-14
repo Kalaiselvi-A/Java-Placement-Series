@@ -5,4 +5,4 @@ This repository contains:
 - DSA starter code
 - Mini-project templates
 
-**YouTube :** (https://youtu.be/ADkwGQZuHxs)[https://youtu.be/ADkwGQZuHxs]
+**YouTube :** [https://youtu.be/ADkwGQZuHxs](https://youtu.be/ADkwGQZuHxs)
